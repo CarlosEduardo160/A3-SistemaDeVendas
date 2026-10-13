@@ -2,8 +2,9 @@
 
 ## Como rodar
 1. Inicie o Código
-2. Abra preferencialmente o POSTMAN para testar endpoints
-2. A API sobe em `http://localhost:8080`
+2. Coloque suas credenciais nos campos de "application.properties" e crie um banco "marketplace" no PostgreSQL, o código vai criar as tabelas automaticamente
+3. Abra preferencialmente o POSTMAN para testar endpoints
+4. A API sobe em `http://localhost:8080`
 
 ## Endpoints
 | Método | Rota | Descrição |
